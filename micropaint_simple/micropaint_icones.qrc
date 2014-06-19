@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/tool">
+        <file>btns/aboutQt.png</file>
+        <file>btns/document-new.png</file>
+        <file>btns/document-open.png</file>
+        <file>btns/document-save.png</file>
+        <file>btns/document-save-as.png</file>
+        <file>btns/draw-circle.png</file>
+        <file>btns/draw-ellipse.png</file>
+        <file>btns/draw-freehand.png</file>
+        <file>btns/draw-rectangle.png</file>
+        <file>btns/draw-text.png</file>
+        <file>btns/edit-copy.png</file>
+        <file>btns/edit-cut.png</file>
+        <file>btns/edit-paste.png</file>
+        <file>btns/edit-redo.png</file>
+        <file>btns/edit-select.png</file>
+        <file>btns/edit-undo.png</file>
+        <file>btns/fill-color.png</file>
+        <file>btns/help-about.png</file>
+        <file>btns/layer_shape_line.png</file>
+        <file>btns/preferences-system.png</file>
+        <file>btns/system-log-out.png</file>
+        <file>btns/system-shutdown.png</file>
+    </qresource>
+</RCC>

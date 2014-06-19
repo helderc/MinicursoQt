@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/botoes">
+        <file alias="sair">buttons/application-exit.png</file>
+        <file alias="novo">buttons/document-new.png</file>
+        <file alias="abrir">buttons/document-open.png</file>
+        <file alias="salvar">buttons/document-save-as.png</file>
+        <file alias="copiar">buttons/edit-copy.png</file>
+        <file alias="recortar">buttons/edit-cut.png</file>
+        <file alias="colar">buttons/edit-paste.png</file>
+        <file alias="negrito">buttons/format-text-bold.png</file>
+        <file alias="italico">buttons/format-text-italic.png</file>
+        <file alias="sublinhado">buttons/format-text-underline.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/botoes">
+        <file>res/document-open.png</file>
+        <file>res/application-exit.png</file>
+    </qresource>
+</RCC>
